@@ -50,7 +50,10 @@ linkedin_username: maxwell-lee-
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Max and I've been working in the data and analytics space since 2012.
 
-  The tech stacks I am most familiar with are: <mark>BigQuery</mark>, <mark>Redshift</mark> and <mark>Snowflake</mark> for analytics, <mark>MySQL</mark> and <mark>Postgres</mark> for web and mobile applications, <mark>Fivetran</mark> for data ingestion, <mark>Airflow</mark> and <mark>Prefect</mark> for orchestration, <mark>dbt</mark> for transformations and <mark>Looker</mark> and <mark>Tableau</mark> for visualizations.
+  The tech I am most familiar with are: <mark>BigQuery</mark>, <mark>Redshift</mark>,
+    <mark>Snowflake</mark>, <mark>MySQL</mark> and <mark>Postgres</mark> for cloud databases,
+    <mark>Fivetran</mark> for data ingestion, <mark>Airflow</mark> and <mark>Prefect</mark> for orchestration,
+    <mark>dbt</mark> for transformations and <mark>Looker</mark> and <mark>Tableau</mark> for visualizations.
 
 content:
   - title: Projects # Title for the section
