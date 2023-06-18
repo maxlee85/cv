@@ -101,14 +101,14 @@ content:
         caption: December 2017 - November 2018
         description: | # this will include new lines to allow paragraphs
             As the first Data Analyst I built reporting using <mark>Looker</mark> and <mark>Segment</mark> and worked on migrating databases from <mark>Redshift</mark> to <mark>Snowflake</mark>.
-      - layout: left
-        title: IBM
-        link: https://www.ibm.com/
-        # link_text: boringcompany.com
-        sub_title: Senior Business Intelligence Analyst
-        caption: January 2015 - November 2016
-        description: | # this will include new lines to allow paragraphs
-            Supported major IBM business transformation and information technology initiatives through the development of data integration, data warehousing and reporting solutions.
+      # - layout: left
+      #   title: IBM
+      #   link: https://www.ibm.com/
+      #   # link_text: boringcompany.com
+      #   sub_title: Senior Business Intelligence Analyst
+      #   caption: January 2015 - November 2016
+      #   description: | # this will include new lines to allow paragraphs
+      #       Supported major IBM business transformation and information technology initiatives through the development of data integration, data warehousing and reporting solutions.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
