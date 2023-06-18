@@ -85,9 +85,12 @@ content:
         sub_title: Senior Business Intelligence Engineer
         caption: January 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            As a Business Intelligence Engineer I was responsible for enabling our stakeholders to make data driven decisions. In addition, I was responsible for coaching other engineers and developing best practices for <mark>Looker</mark> and <mark>data warehouse</mark> development.
+            As a Business Intelligence Engineer I was responsible for enabling our stakeholders to make data driven decisions.
+              In addition, I was responsible for coaching other engineers and developing best practices for <mark>Looker</mark> and <mark>data warehouse</mark> development.
 
-            Data sourced from <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and <mark>internal application databases</mark>. Orchestrated via <mark>Fivetran</mark> and <mark>Loome</mark> and <mark>Prefect</mark>. Transformed using <mark>dbt</mark> and <mark>SQL</mark>. Visualized with <mark>Looker</mark>.
+            Data sourced from <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and <mark>internal application databases</mark>.
+              Orchestrated via <mark>Fivetran</mark> and <mark>Loome</mark> and <mark>Prefect</mark>.
+              Transformed using <mark>dbt</mark> and <mark>SQL</mark>. Visualized with <mark>Looker</mark>.
       - layout: left
         title: Jet.com (Walmart)
         link: https://www.walmart.com/
@@ -97,7 +100,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             As the first Data Engineer I built the infrastructure to create reporting and analytics for the Talent Acquisition team.
 
-            I worked with data sourced from <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>. Orchestrated via <mark>Airflow</mark>. Transformed using <mark>Python</mark> and <mark>SQL</mark>. Visualized with <mark>Tableau</mark>.
+            I worked with data sourced from <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
+              Orchestrated via <mark>Airflow</mark>. Transformed using <mark>Python</mark> and <mark>SQL</mark>. Visualized with <mark>Tableau</mark>.
       - layout: left
         title: Aaptiv (PEAR Health Labs)
         link: https://aaptiv.com/
