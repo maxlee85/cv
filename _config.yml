@@ -49,8 +49,7 @@ linkedin_username: maxwell-lee-
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Max and I've been working in the data and analytics space since 2012.
-  The tech stacks I am most familiar with are: <mark>BigQuery</mark>, <mark>Redshift</mark> and <mark>Snowflake</mark> for analytics, <mark>MySQL</mark> and <mark>Postgres</mark> for web and mobile applications, <mark>Fivetran</mark> for data ingestion,
-    <mark>Airflow</mark> and <mark>Prefect</mark> for orchestration, <mark>dbt</mark> for transformations and <mark>Looker</mark> and <mark>Tableau</mark> for visualizations. 
+  The tech stacks I am most familiar with are: <mark>BigQuery</mark>, <mark>Redshift</mark> and <mark>Snowflake</mark> for analytics, <mark>MySQL</mark> and <mark>Postgres</mark> for web and mobile applications, <mark>Fivetran</mark> for data ingestion, <mark>Airflow</mark> and <mark>Prefect</mark> for orchestration, <mark>dbt</mark> for transformations and <mark>Looker</mark> and <mark>Tableau</mark> for visualizations.
 
 content:
   - title: Projects # Title for the section
@@ -83,10 +82,8 @@ content:
         caption: January 2021 - Present
         description: | # this will include new lines to allow paragraphs
             As a Business Intelligence Engineer I was responsible for enabling our stakeholders to make data driven decisions. In addition, I was responsible for coaching other engineers and developing best practices for <mark>Looker</mark> and <mark>data warehouse</mark> development.
-            Data sourced from: <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and <mark>internal application databases</mark>.
-            Orchestrated via: <mark>Fivetran</mark> and <mark>Loome</mark> and <mark>Prefect</mark>
-            Transformed using: <mark>dbt</mark> and <mark>SQL</mark>
-            Visualized with: <mark>Looker</mark>
+
+            Data sourced from: <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and <mark>internal application databases</mark>. Orchestrated via: <mark>Fivetran</mark> and <mark>Loome</mark> and <mark>Prefect</mark> Transformed using: <mark>dbt</mark> and <mark>SQL</mark> Visualized with: <mark>Looker</mark>
         title: Jet.com (Walmart)
         link: https://www.walmart.com/
         # link_text: boringcompany.com
@@ -94,10 +91,7 @@ content:
         caption: January 2019 - January 2021
         description: | # this will include new lines to allow paragraphs
             As the first Data Engineer I built the infrastructure to create reporting and analytics for the Talent Acquisition team.
-            Data sourced from: <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
-            Orchestrated via: <mark>Airflow</mark>
-            Transformed using: <mark>Python</mark> and <mark>SQL</mark>
-            Visualized with: <mark>Tableau</mark>
+            Data sourced from <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>. Orchestrated via <mark>Airflow</mark>. Transformed using <mark>Python</mark> and <mark>SQL</mark>. Visualized with <mark>Tableau</mark>.
       - layout: left
         title: Aaptiv (PEAR Health Labs)
         link: https://aaptiv.com/
