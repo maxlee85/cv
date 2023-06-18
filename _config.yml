@@ -56,25 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
     <mark>dbt</mark> for transformations and <mark>Looker</mark> and <mark>Tableau</mark> for visualizations.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Data Modeling (using dbt)
-        link: https://github.com/maxlee85/dbt-learn
-        # link_text: Project Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-          #   icon: fab fa-github
-          #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project to learn more about <mark>dbt</mark> and to practice dimensional modeling (Kimball).
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -118,6 +99,25 @@ content:
         caption: January 2015 - November 2016
         description: | # this will include new lines to allow paragraphs
             Supported major IBM business transformation and information technology initiatives through the development of data integration, data warehousing and reporting solutions.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Data Modeling (using dbt)
+        link: https://github.com/maxlee85/dbt-learn
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+          #   icon: fab fa-github
+          #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project to learn more about <mark>dbt</mark> and to practice dimensional modeling (Kimball).
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
