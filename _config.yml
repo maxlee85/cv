@@ -90,7 +90,12 @@ content:
         sub_title: Data Engineer
         caption: January 2019 - January 2021
         description: | # this will include new lines to allow paragraphs
-            Description goes here.
+            As the first data hire I built the infrastructure to create reporting and analytics for the Talent Acquisition team.
+
+            Integrating data from: <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
+            Orchestrated via: <mark>Airflow</mark>
+            Transformed via: <mark>Python</mark> and <mark>SQL</mark>
+            Visualized: <mark>Tableau</mark>
       - layout: left
         title: Aaptiv (PEAR Health Labs)
         link: https://aaptiv.com/
@@ -106,7 +111,7 @@ content:
         sub_title: Senior Business Intelligence Analyst
         caption: January 2015 - November 2016
         description: | # this will include new lines to allow paragraphs
-            Description goes here.
+            Supported major IBM business transformation and information technology initiatives through the development of data integration, data warehousing and reporting solutions.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
