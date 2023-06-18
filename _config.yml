@@ -92,10 +92,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             As the first data hire I built the infrastructure to create reporting and analytics for the Talent Acquisition team.
 
-            Integrating data from: <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
+            Data sourced from: <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
             Orchestrated via: <mark>Airflow</mark>
-            Transformed via: <mark>Python</mark> and <mark>SQL</mark>
-            Visualized: <mark>Tableau</mark>
+            Transformed using: <mark>Python</mark> and <mark>SQL</mark>
+            Visualized with: <mark>Tableau</mark>
       - layout: left
         title: Aaptiv (PEAR Health Labs)
         link: https://aaptiv.com/
@@ -103,7 +103,7 @@ content:
         sub_title: Data Analyst
         caption: December 2017 - November 2018
         description: | # this will include new lines to allow paragraphs
-            Description goes here.
+            As the first data analyst I migrated databases from <mark>Redshift</mark> to <mark>Snowflake</mark> and built reporting using <mark>Looker</mark> and <mark>Segment</mark>.
       - layout: left
         title: IBM
         link: https://www.ibm.com/
