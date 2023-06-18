@@ -83,6 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a Business Intelligence Engineer I was responsible for enabling our stakeholders to make data driven decisions. In addition, I was responsible for coaching other engineers and developing best practices for <mark>Looker</mark> and <mark>data warehouse</mark> development.
             Data sourced from <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and <mark>internal application databases</mark>. Orchestrated via <mark>Fivetran</mark> and <mark>Loome</mark> and <mark>Prefect</mark>. Transformed using <mark>dbt</mark> and <mark>SQL</mark>. Visualized with <mark>Looker</mark>.
+      - layout: left
         title: Jet.com (Walmart)
         link: https://www.walmart.com/
         # link_text: boringcompany.com
