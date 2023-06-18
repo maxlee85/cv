@@ -91,6 +91,7 @@ content:
         caption: January 2019 - January 2021
         description: | # this will include new lines to allow paragraphs
             As the first data hire I built the infrastructure to create reporting and analytics for the Talent Acquisition team.
+            
 
             Data sourced from: <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
             Orchestrated via: <mark>Airflow</mark>
