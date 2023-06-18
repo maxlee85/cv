@@ -46,11 +46,11 @@ linkedin_username: maxwell-lee-
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Max and I've been working in the data and analytics space since 2012.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I'm experienced using cloud data warehouses such as <mark>BigQuery</mark>, <mark>Redshift</mark> and <mark>Snowflake</mark> for analytics and <mark>MySQL</mark> and <mark>Postgres</mark> for web and mobile applications.
 
 content:
   - title: Projects # Title for the section
