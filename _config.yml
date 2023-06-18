@@ -91,7 +91,7 @@ content:
         caption: January 2019 - January 2021
         description: | # this will include new lines to allow paragraphs
             As the first data hire I built the infrastructure to create reporting and analytics for the Talent Acquisition team.
-            
+
 
             Data sourced from: <mark>Greenhouse</mark>, <mark>Workday</mark> and <mark>internal systems</mark>.
             Orchestrated via: <mark>Airflow</mark>
@@ -104,7 +104,7 @@ content:
         sub_title: Data Analyst
         caption: December 2017 - November 2018
         description: | # this will include new lines to allow paragraphs
-            As the first data analyst I migrated databases from <mark>Redshift</mark> to <mark>Snowflake</mark> and built reporting using <mark>Looker</mark> and <mark>Segment</mark>.
+            As the first data analyst I built reporting using <mark>Looker</mark> and <mark>Segment</mark> and worked on migrating databases from <mark>Redshift</mark> to <mark>Snowflake</mark>.
       - layout: left
         title: IBM
         link: https://www.ibm.com/
