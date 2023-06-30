@@ -69,7 +69,7 @@ content:
             As a Business Intelligence Engineer I was responsible for enabling our stakeholders to make data driven decisions.
               In addition, I was responsible for coaching other engineers and developing best practices for Looker and data warehouse development.
 
-            I worked with data sourced from <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and <mark>internal application databases</mark>.
+            I worked with data sourced from <mark>Marketo</mark>, <mark>Salesforce</mark>, <mark>Telligent</mark> and internal application databases.
               Ingested by Fivetran. Orchestrated via Loome and Prefect.
               Transformed using dbt and SQL. Visualized with Looker.
       - layout: left
